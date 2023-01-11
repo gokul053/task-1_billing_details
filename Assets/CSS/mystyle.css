@@ -1,0 +1,54 @@
+
+body
+{
+    background-color: #e4e7ed;
+    font-family:'Outfit';
+}
+hr 
+{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.topbar
+{
+    background-color: #3c3c3b;  
+}
+.continue
+{
+    background-color: #ec6611;
+    color: white;
+    height:100%;
+    width:101%;
+    border-radius: 10px;
+    font-size:125%;
+}    
+.cardcol
+{
+    background-color: #ffffff;
+    border-radius: 17px;    
+}
+p.height
+{
+    line-height: 1.0;
+}
+.hideshow
+{
+    float: right;
+    margin-left: -50px;
+    margin-right: 25px;
+    margin-top: -43px;
+    position: relative;
+    z-index: 2;
+    color: gray;
+    font-size: large;
+}
+.inputborder
+{
+    border-radius: 17px;
+}
+
+.gokul
+{
+    font-size: 16px;
+}
